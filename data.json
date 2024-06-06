@@ -1,0 +1,18 @@
+{
+    "udemy": {
+        "username": "yash@gmail.com",
+        "password": "1234"
+    },
+    "amazon": {
+        "username": "yash@gmail.com",
+        "password": "yashu"
+    },
+    "apple": {
+        "username": "yash@gmail.com",
+        "password": "happy10"
+    },
+    "cloud": {
+        "username": "yash@gmail.com",
+        "password": "987654321"
+    }
+}
